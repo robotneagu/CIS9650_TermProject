@@ -16,6 +16,7 @@ Team Members:
 ## Dataset
 
 **Source:** Pinal County, Arizona real estate transactions
+
 **Format:** CSV
 
 **Key Columns:**
