@@ -1,5 +1,7 @@
 # Group 5 Term Project: Arizona Home Property Value Analysis 
 
+<a href="https://colab.research.google.com/github/robotneagu/CIS9650_TermProject/blob/main/CIS9650_Group5_Term_Project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ### Project Summary
 This project uses the process of data cleaning, analytics, and visualization techniques to find pricing patterns in Arizona’s real estate. By comparing property types and analyzing different ZIP codes, our notebook provides a clear breakdown of how different factors influence the overall sale price of the properties of Pinal County, Arizona. 
 
