@@ -19,13 +19,13 @@ Team Members:
 **Format:** CSV
 
 **Key Columns:**
-- sale_price
-- sale_datetime
-- property_zip5
-- property_city
-- property_type 
-- property_street_address 
-- source_url
+- `sale_price`
+- `sale_datetime`
+- `property_zip5`
+- `property_city`
+- `property_type`
+- `property_street_address`
+- `source_url`
 
 ## Methodology
 
